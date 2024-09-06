@@ -2,7 +2,7 @@
   "DatasetName": "default.cds",
   "EntityName": "Asset Inventories",
   "environmentVariableName": "",
-  "InstanceUrl": "https://ppdemos.crm5.dynamics.com",
+  "InstanceUrl": "https://ppdemos.crm5.dynamics.com/",
   "LocalReferenceDSJson": {
     "entitySetName": "cr1f9_assetinventory8s",
     "logicalName": "cr1f9_assetinventory8"
