@@ -1,0 +1,3 @@
+{
+  "AppFromDataMetaDataIdsToEntityNameMappings": "{\"%DataSourceName.AFD%\":\"Asset Inventories\",\"%DataSourceValue.AFD%\":\"[@'Asset Inventories']\",\"%SortFieldName.AFD%\":\"\\\"cr1f9_assetid\\\"\",\"%FilterFieldName.AFD%\":\"cr1f9_assetid\",\"%PrimaryNameField.AFD%\":\"cr1f9_assetid\",\"%PrimaryNameFieldDisplayName.AFD%\":\"'Asset ID'\",\"%SearchFieldName.AFD%\":\"cr1f9_assetid,cr1f9_assetname,cr1f9_businessunit\",\"%StartsWithFieldName.AFD%\":\"cr1f9_assetid\",\"%DeleteConfirmFieldName.AFD%\":\"cr1f9_assetid\",\"%SortDescending.AFD%\":\"SortDescending1\",\"%CopilotSinglePageScreen.ID%\":\"'Asset Inventories screen'\",\"%BrowseContainer.ID%\":\"BrowseGallery1\",\"%DetailEditContainer.ID%\":\"EditForm1\"}"
+}
